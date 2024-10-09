@@ -91,7 +91,7 @@ body{
 
 /* Responsiveness */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 300px) {
 
     .form-concept {
         width: 100%;
